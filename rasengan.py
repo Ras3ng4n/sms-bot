@@ -26,7 +26,7 @@ def ascii_intro():
     |  _ <  __/ | | | (_) | |  | |_\__ \\
     |_| \_\___|_| |_|\___/|_|   \__|___/
                                         
-        {Style.BRIGHT}by ras3ng4n@tingirifistik
+        {Style.BRIGHT}by @coded by ras3ng4n
         """,
         f"""{Fore.LIGHTMAGENTA_EX}
      ____                       _       
@@ -35,7 +35,7 @@ def ascii_intro():
     |  _ <  __/ | | | (_) | |  | |_\__ \\
     |_| \_\___|_| |_|\___/|_|   \__|___/
                                         
-        {Style.BRIGHT}by ras3ng4n@tingirifistik
+        {Style.BRIGHT}by @coded by ras3ng4n
         """
     ]
     for _ in range(3):
@@ -58,7 +58,7 @@ while True:
     |  _ <  __/ | | | (_) | |  | |_\__ \\
     |_| \_\___|_| |_|\___/|_|   \__|___/
                                         
-    SMS Servisleri: {len(servisler_sms)}       {Style.BRIGHT}by ras3ng4n@tingirifistik
+    Toplam Servislerimiz(arttırıldı): {len(servisler_sms)}       {Style.BRIGHT}by @coded by ras3ng4n
     """)
 
     try:
